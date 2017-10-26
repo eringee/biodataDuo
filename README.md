@@ -48,9 +48,9 @@ Serial is initially set to 115200
 
 # AUTHORS
 
-* [Erin Gee] (http://www.eringee.net)
-* [Martin Peach] (https://puredata.info/Members/martinrp/OSCobjects)
-* [Thomas Ouellet-Fredericks] (https://github.com/thomasfredericks)
+* [Erin Gee](http://www.eringee.net)
+* [Martin Peach](https://puredata.info/Members/martinrp/OSCobjects)
+* [Thomas Ouellet-Fredericks](https://github.com/thomasfredericks)
 
 # COPYING
 Released under GNU GPL 3.0 License.  Copyright Erin Gee 2017.
