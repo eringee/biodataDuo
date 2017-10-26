@@ -27,7 +27,7 @@ To gather __pulse data__ I use the [Pulse Sensor] (https://pulsesensor.com/)
 
 * [Average](https://github.com/MajenkoLibraries/Average) by MajenkoLibraries  
 
-* [Elapsed Millis] (https://playground.arduino.cc/Code/ElapsedMillis)by Paul Stoffregen 
+* [Elapsed Millis](https://playground.arduino.cc/Code/ElapsedMillis) by Paul Stoffregen 
 
 
 # CUSTOMIZATION OF CODE
