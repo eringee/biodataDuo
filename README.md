@@ -1,10 +1,10 @@
-#BioDataDUO
+# BioDataDUO
 
 This BioDataDUO provides a cheap yet inexpensive way to collect biodata relative to skin conductivity bursts (GSR), and information from a photoplethysmograph.  The code is made with detection of signals relevant to emotional physiology, but could likely be adapted to suit many needs.
 
 The code will allow you to provide a serial port with information relative to bursts of galvanic skin activity, as well as pulse, amplitude of pulse signal, as well as whether the subject has experienced changes in these signals over time.
 
-#BASIC SETUP
+# BASIC SETUP
 
 Code verified on Arduino 1.8.1 
 
@@ -21,7 +21,7 @@ See attached diagram for the circuit I used for __GSR__ using the MCP 6002 chip.
 To gather __pulse data__ I use the [Pulse Sensor] (https://pulsesensor.com/)
 
 
-#LIBRARIES USED
+# LIBRARIES USED
 
 * [Chrono](https://github.com/SofaPirate/Chrono) by SofaPirate  
 
@@ -30,7 +30,7 @@ To gather __pulse data__ I use the [Pulse Sensor] (https://pulsesensor.com/)
 * [Elapsed Millis] (https://playground.arduino.cc/Code/ElapsedMillis)by Paul Stoffregen 
 
 
-#CUSTOMIZATION OF CODE
+# CUSTOMIZATION OF CODE
 
 Change these inputs to the pins that you want
 
@@ -46,7 +46,7 @@ These remaining variables are found in the base GSR-PulseSensor tab/file.
 
 Serial is initially set to 115200
 
-#AUTHORS
+# AUTHORS
 
 [Erin Gee] (http://www.eringee.net)
 [Martin Peach] (https://puredata.info/Members/martinrp/OSCobjects)
