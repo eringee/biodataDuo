@@ -16,7 +16,12 @@ the Free Software Foundation.
 
 ******************************************************/
 
-void updateSerial() {
+void updateSerial() {   
+  // For the Unity reader, you can add whatever values you would like reported here,
+  //just make sure you add a tab Serial.print("\t") between values.
+  //
+  //Final value must have Serial.println in order to end the reading.
+  
   Serial.print(heartSensorFiltered);
   Serial.print("\t");
   
