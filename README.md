@@ -18,7 +18,7 @@ But you should be able to run this code on most Arduino ide-friendly microcontro
 
 See attached diagram for the circuit I used for __GSR__ using the MCP 6002 chip.
 
-To gather __pulse data__ I use the [Pulse Sensor] (https://pulsesensor.com/)
+To gather __pulse data__ I use the [Pulse Sensor](https://pulsesensor.com/)
 
 
 # LIBRARIES USED
