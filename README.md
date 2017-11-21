@@ -35,12 +35,14 @@ To gather __pulse data__ I use the [Pulse Sensor](https://pulsesensor.com/)
 Change these inputs to the pins that you want
 
 * __GSR input is set to pin A6__
+* __Temperature input is set to pin A7__
 * __Pulse Sensor input is set to pin A8__
 
 These variables above are found until __processGsr__ and __processHeart__ tabs/files respectively.
 
 * __GSR LED output is set to pin 4__
 * __Heart LED output is set to pin 5__
+* __Temperature output is set to pin 6__
 
 These remaining variables are found in the base GSR-PulseSensor tab/file.
 
