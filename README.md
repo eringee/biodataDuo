@@ -1,6 +1,6 @@
 # BioDataDUO
 
-This BioDataDUO provides a cheap yet inexpensive way to collect biodata relative to skin conductivity bursts (GSR), and information from a photoplethysmograph.  The code is made with detection of signals relevant to emotional physiology, but could likely be adapted to suit many needs.
+This BioDataDUO provides a reliable and inexpensive way to collect biodata relative to skin conductivity bursts (GSR), and information from a photoplethysmograph.  The code is made with detection of signals relevant to emotional physiology, but could likely be adapted to suit many needs.
 
 The code will allow you to provide a serial port with information relative to bursts of galvanic skin activity, as well as pulse, amplitude of pulse signal, as well as whether the subject has experienced changes in these signals over time.
 
