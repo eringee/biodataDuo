@@ -14,7 +14,9 @@ on a Teensy 3.2 microcontroller
 
 https://www.pjrc.com/teensy/
 
-But you should be able to run this code on most Arduino ide-friendly microcontrollers
+So you will need to also install [Teensyduino](https://www.pjrc.com/teensy/td_download.html) in order to run this program on the board
+
+If you modify the board or code you should be able to run this code on most Arduino-friendly microcontrollers
 
 See attached diagram for the circuit I used for __GSR__ using the MCP 6002 chip.
 
