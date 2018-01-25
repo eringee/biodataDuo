@@ -22,6 +22,9 @@ See attached diagram for the circuit I used for __GSR__ using the MCP 6002 chip.
 
 To gather __pulse data__ I use the [Pulse Sensor](https://pulsesensor.com/)
 
+# INSTALL LIBRARIES
+
+If you don't already know how to install Arduino librairies on your computer, [check out this Sparkfun tutorial](https://learn.sparkfun.com/tutorials/installing-an-arduino-library)
 
 # LIBRARIES USED
 
@@ -30,6 +33,7 @@ To gather __pulse data__ I use the [Pulse Sensor](https://pulsesensor.com/)
 * [Average](https://github.com/MajenkoLibraries/Average) by MajenkoLibraries  
 
 * [Elapsed Millis](https://playground.arduino.cc/Code/ElapsedMillis) by Paul Stoffregen 
+
 
 
 # CUSTOMIZATION OF CODE
