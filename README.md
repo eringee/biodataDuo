@@ -52,7 +52,7 @@ These variables above are found until __processGsr__ and __processHeart__ tabs/f
 
 These remaining variables are found in the base GSR-PulseSensor tab/file.
 
-Serial is initially set to 115200
+Serial is initially set to a baudrate of 115200
 
 # AUTHORS
 
